@@ -1,0 +1,19 @@
+{
+  "name": "node_mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "body-parse": "^0.1.0",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8",
+    "path": "^0.12.7"
+  }
+}
